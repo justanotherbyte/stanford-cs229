@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".github/cs229-banner.png" width="100%">
+<img src=".github/cs229-banner.png" width="100%" onclick="location.href='https://cs229.stanford.edu/'">
 </div>
 
 # Stanford CS229 Model Implementations
