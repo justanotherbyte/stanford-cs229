@@ -1,7 +1,6 @@
 <div align="center">
 <img src=".github/cs229-banner.png" width="100%">
 </div>
-<br>
 
 # Stanford CS229 Model Implementations
 
