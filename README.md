@@ -25,6 +25,8 @@ Model implementations can be found in their respective categorical folders (supe
 
 The way I've chosen to implement these models is **not** indicative of how they're implemented in the real world. Simply use this repository as a reference. Note, some of these models may take a while to train either due to the dataset, bad hyperparameter choices on my part or both. I've added comments where I think this is applicable.
 
+**Note:** I am **not** a student at Stanford. I am not affiliated with them in *any* way whatsoever.
+
 ### Articles
 
 I occasionally write accompanying articles for models or theory I find *particularly* interesting. You can find these on my website.
