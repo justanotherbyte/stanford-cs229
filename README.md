@@ -21,7 +21,7 @@ Implementations of the theory and models covered in Stanford CS229.
 
 This repository contains implementations of the theory and models covered in [CS229's Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) reading.
 
-Model implementations can be found in their respective categorical folders (supervised, unsupervised, deep, reinforcement). The impl folder contains implementations for common algorithms between the models, such as Gradient Descent.
+Model implementations can be found in their respective categorical folders (supervised, unsupervised, deep, reinforcement). The `impl` folder contains implementations for common algorithms between the models, such as Gradient Descent.
 
 The way I've chosen to implement these models is **not** indicative of how they're implemented in the real world. Simply use this repository as a reference. Note, some of these models may take a while to train either due to the dataset, bad hyperparameter choices on my part or both. I've added comments where I think this is applicable.
 
@@ -39,4 +39,4 @@ I occasionally write accompanying articles for models or theory I find *particul
 
 ### Licensing
 
-This repository is under the MIT License, except from the datasets and .github folders. These directories contain assets that I do not own, hence cannot license.
+This repository is under the MIT License, except from the `datasets` and `.github` folders. These directories contain assets that I do not own, hence cannot license.
