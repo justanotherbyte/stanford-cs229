@@ -35,8 +35,6 @@ class GradientDescentAscent:
 
         params = initial
 
-        seen = np.array([])
-
         while (iterations <= self.max_iter) and (converged is False):
             new = params - (self.learning_rate * self.gradient(params))
 
